@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science and Engineering student with a strong foundation in web development and programming.<br>I have hands-on experience with HTML, CSS, JavaScript, react.js, and Python, Django , which I have used to build responsive web applications and solve real-world problems.
+I am a Computer Science and Engineering(CS&E) student with a strong foundation in web development and programming.<br>I have hands-on experience with HTML, CSS, JavaScript, react.js, and Python, Django , which I have used to build responsive web applications and solve real-world problems.
 
 
 ## 🌐 Socials:
